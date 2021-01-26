@@ -1,0 +1,18 @@
+{
+  "name": "authentico-passport-strategy",
+  "version": "1.0.0",
+  "main": "./lib",
+  "repository": "https://github.com/YashKumarVerma/authentico-passport-strategy",
+  "author": "Yash Kumar Verma <yk.verma2000@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "passport-oauth2": "^1.5.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.2.1"
+  }
+}
